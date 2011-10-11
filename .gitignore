@@ -1,0 +1,5 @@
+.mozconfig
+.mozconfig.mk
+configure
+*.pyc
+objdir-prof-android
